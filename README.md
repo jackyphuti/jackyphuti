@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jackyphuti
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on Machine learning, Robotics, Data Science, Stats, Web development
 - 📫 How to reach me 0610115925 & jackympoka22@gmail.com
 - 😄 Pronouns: ...
