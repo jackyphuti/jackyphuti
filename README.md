@@ -1,63 +1,27 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=30A9F0&width=435&lines=Hello!+I'm+Jacky+Mpoka;A+passionate+Software+Development+student;Interested+in+the+future+of+Tech" alt="Typing SVG" /></a>
-</p>
+# 💫 About Me:
 
----
+![Coding GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
-## 👀 About Me
+## Hi, I’m Jacky Mpoka — a passionate Software Development student shaping the future of Tech.
 
-* **Interests:** Coding, Robotics, Machine Learning, and Data Science.
-* **Learning:** Currently focusing on **Software Development**.
-* **Collaboration:** I'm looking to collaborate on projects related to **Software Development, Data Science, Stats, and Web Development**.
+My key interests are **Coding, Robotics, Machine Learning, and Data Science**. I’m eager to collaborate on projects involving **Software Development, Data Science, Statistics, and Web Development**. Thanks for visiting! 🚀
 
----
+## 🌐 Let's connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([PASTE_YOUR_LINKEDIN_URL_HERE]) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jackympoka22@gmail.com)&nbsp;
 
-## 🔗 Let's Connect
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=plastic&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 
-**A quick heads-up:** I removed your phone number from this public profile. It's safer to use professional platforms like LinkedIn!
-
-<p align="center">
-  <a href="mailto:jackympoka22@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="[PASTE_YOUR_LINKEDIN_URL_HERE]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
----
-
-## 🛠️ My Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-
----
-
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jackyphuti&show_icons=true&rank_icon=percentage&include_all_commits=true&theme=dark" alt="Jacky Phuti's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackyphuti&layout=compact&theme=dark" alt="Jacky Phuti's Top Languages" />
-</p>
-
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jackyphuti&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=jackyphuti&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jackyphuti&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jackyphuti&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jackyphuti&theme=onedark&no-frame=true&no-bg=true" alt="Jacky Phuti's GitHub Trophies" />
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-## 🐍 My Contribution Snake
-
-<p align="center">
-  <img src="https://github-readme-contribution-snake.vercel.app/api?username=jackyphuti&theme=dark" alt="GitHub Contribution Snake" />
-</p>
+[![](https://visitcount.itsvg.in/api?id=jackyphuti&icon=2&color=6)](https://visitcount.itsvg.in)
