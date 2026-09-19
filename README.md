@@ -4,7 +4,7 @@
 
 ## Hi, I’m Jacky Mpoka — a passionate Software Development student shaping the future of Tech.
 
-My key interests are **Coding, Robotics, Machine Learning, and Data Science**. I’m eager to collaborate on projects involving **Software Development, Data Science, Statistics, and Web Development**. Thanks for visiting! 🚀
+My key interests are **Coding, Robotics, Operating systems**. I’m eager to collaborate on projects involving **Software Development, Data Science, Statistics, and Web Development**. Thanks for visiting! 🚀
 
 ## 🌐 Let's connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacky-mpoka-860423354) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jackympoka22@gmail.com)&nbsp;
