@@ -1,27 +1,82 @@
-# 💫 About Me:
+<!-- Banner -->
+<div align="center">
 
-![Coding GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50%:1e3a8a,100%:06b6d4&text=Jacky%20Mpoka&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Systems%20Tinkerer%20%C2%B7%20Robotics%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" alt="Jacky Mpoka banner" />
 
-## Hi, I’m Jacky Mpoka — a passionate Software Development student shaping the future of Tech.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=06B6D4&center=true&vCenter=true&width=640&lines=Building+software+that+solves+real+problems;Exploring+operating+systems+from+the+metal+up;Robotics+%C2%B7+Data+Science+%C2%B7+Web+Development;Open+to+collaboration+%E2%80%94+let's+build+something" alt="Typing animation" />
+</a>
 
-My key interests are **Coding, Robotics, Operating systems**. I’m eager to collaborate on projects involving **Software Development, Data Science, Statistics, and Web Development**. Thanks for visiting! 🚀
+<br/>
 
-## 🌐 Let's connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacky-mpoka-860423354) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jackympoka22@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacky-mpoka-860423354)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jackympoka22@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/jackyphuti?style=for-the-badge&logo=github&color=0f172a)](https://github.com/jackyphuti)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=plastic&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jackyphuti&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jackyphuti&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jackyphuti&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jackyphuti&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jackyphuti&icon=2&color=6)](https://visitcount.itsvg.in)
+
+## 👋 About Me
+
+I'm a **Software Development student** who loves working close to the machine and building things that ship.
+
+- 🔭 **Interests:** Coding, Robotics, Operating Systems
+- 🤝 **Looking to collaborate on:** Software Development, Data Science, Statistics, Web Development
+- 🌱 **Always learning:** systems programming, AI/ML, and modern web tooling
+- 📫 **Reach me:** via LinkedIn or email above
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,tailwind,git,linux,github&perline=9" alt="Tech stack icons" />
+
+</div>
+
+| Area | Tools |
+| :-- | :-- |
+| **Languages** | Python · C++ · JavaScript |
+| **Web** | HTML5 · CSS · Tailwind CSS |
+| **Workflow** | Git · GitHub · Linux |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=jackyphuti&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackyphuti&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=jackyphuti&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jackyphuti&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
+
+</div>
+
+### 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=jackyphuti&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub trophies" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:06b6d4,50%:1e3a8a,100%:0f172a&section=footer" width="100%" alt="footer" />
+
+<sub>Thanks for stopping by ⭐ — if something here interests you, let's talk.</sub>
+
+</div>
