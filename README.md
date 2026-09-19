@@ -48,26 +48,14 @@ I'm a **Software Development student** who loves working close to the machine an
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=jackyphuti&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackyphuti&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top languages" />
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="49%" alt="Profile details" />
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub stats" />
 
-<img src="https://streak-stats.demolab.com?user=jackyphuti&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most committed languages" />
+<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Repos per language" />
 
-</div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jackyphuti&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
-
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jackyphuti&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub trophies" />
+<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="Productive time" />
+<img src="https://streak-stats.demolab.com?user=jackyphuti&theme=tokyonight&hide_border=true" width="49%" alt="GitHub streak" />
 
 </div>
 
