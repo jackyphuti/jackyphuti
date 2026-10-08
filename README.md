@@ -12,6 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacky-mpoka-860423354)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jackympoka22@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/jackyphuti?style=for-the-badge&logo=github&color=0f172a)](https://github.com/jackyphuti)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/jackyphuti)
 
 </div>
 
@@ -25,6 +26,7 @@ I'm a **Software Development student** who loves working close to the machine an
 - 🤝 **Looking to collaborate on:** Software Development, Data Science, Statistics, Web Development
 - 🌱 **Always learning:** systems programming, AI/ML, and modern web tooling
 - 📫 **Reach me:** via LinkedIn or email above
+- 💖 **Support:** Sponsoring my open-source work on [GitHub Sponsors](https://github.com/sponsors/jackyphuti)
 
 ---
 
@@ -56,6 +58,20 @@ I'm a **Software Development student** who loves working close to the machine an
 
 <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="Productive time" />
 <img src="https://streak-stats.demolab.com?user=jackyphuti&theme=tokyonight&hide_border=true" width="49%" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 💖 Support My Work
+
+If you find my open-source projects or contributions helpful, consider supporting my work:
+
+<div align="center">
+
+<a href="https://github.com/sponsors/jackyphuti">
+  <img src="https://img.shields.io/badge/Sponsor%20me%20on-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub" />
+</a>
 
 </div>
 
