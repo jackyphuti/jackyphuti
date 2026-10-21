@@ -19,5 +19,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: "fix/workflow-token"
+          BRANCH_NAME: "main"
           UTC_OFFSET: 2 # South Africa (SAST)
